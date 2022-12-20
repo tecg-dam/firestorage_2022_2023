@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774635933999",
+    "project_id": "firestorage-c1ce5",
+    "storage_bucket": "firestorage-c1ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774635933999:android:640ad2813d4af86d4791da",
+        "android_client_info": {
+          "package_name": "com.example.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774635933999-9l1r6b458sj4t4kumvv5fojdgb103ofq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6tQnuA9Sh5chDS4KFITgSKEsiN_XYWfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774635933999-9l1r6b458sj4t4kumvv5fojdgb103ofq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
